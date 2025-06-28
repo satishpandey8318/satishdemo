@@ -1,4 +1,4 @@
 # satishdemo
 my first repo
 <br>
-author - satish pandey
+author - satish (pandey)
